@@ -1,0 +1,23 @@
+Fri Oct 04 18:49:18.897 [initandlisten] MongoDB starting : pid=7196 port=27019 dbpath=d:\nodejs\nodejs_course\week6\data\rs3 64-bit host=CP0998
+Fri Oct 04 18:49:18.897 [initandlisten] db version v2.4.6
+Fri Oct 04 18:49:18.897 [initandlisten] git version: b9925db5eac369d77a3a5f5d98a145eaaacd9673
+Fri Oct 04 18:49:18.897 [initandlisten] build info: windows sys.getwindowsversion(major=6, minor=1, build=7601, platform=2, service_pack='Service Pack 1') BOOST_LIB_VERSION=1_49
+Fri Oct 04 18:49:18.897 [initandlisten] allocator: system
+Fri Oct 04 18:49:18.897 [initandlisten] options: { dbpath: "d:\nodejs\nodejs_course\week6\data\rs3", logpath: "3.log", port: 27019, replSet: "rs3", serviceDisplayName: "rs3", serviceName: "rs3" }
+Fri Oct 04 18:49:18.897 [initandlisten] exception in initAndListen: 10296 
+*********************************************************************
+ ERROR: dbpath (d:\nodejs\nodejs_course\week6\data\rs3) does not exist.
+ Create this directory or give existing directory in --dbpath.
+ See http://dochub.mongodb.org/core/startingandstoppingmongo
+*********************************************************************
+, terminating
+Fri Oct 04 18:49:18.897 dbexit: 
+Fri Oct 04 18:49:18.897 [initandlisten] shutdown: going to close listening sockets...
+Fri Oct 04 18:49:18.897 [initandlisten] shutdown: going to flush diaglog...
+Fri Oct 04 18:49:18.897 [initandlisten] shutdown: going to close sockets...
+Fri Oct 04 18:49:18.898 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Oct 04 18:49:18.898 [initandlisten] shutdown: lock for final commit...
+Fri Oct 04 18:49:18.898 [initandlisten] shutdown: final commit...
+Fri Oct 04 18:49:18.898 [initandlisten] shutdown: closing all files...
+Fri Oct 04 18:49:18.898 [initandlisten] closeAllFiles() finished
+Fri Oct 04 18:49:18.898 dbexit: really exiting now
